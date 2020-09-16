@@ -8,4 +8,8 @@ Requirements satisfied:
 => Have used Git for Version Control.
 => Have used SSR option.
 => Have used Bootstrap for responsive.
-=> Have tested with cross browser.(Chrome,Firefox,IE)
+=> Have used Hardcoded JSON Format values to show the details in contact page.
+=> Have tested with cross browser.(Chrome,Firefox,IE).
+
+
+
